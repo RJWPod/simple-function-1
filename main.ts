@@ -9,6 +9,3 @@ function Countdown () {
     music.playTone(392, music.beat(BeatFraction.Whole))
     basic.showString("GO!")
 }
-basic.forever(function () {
-	
-})
